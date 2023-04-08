@@ -2,7 +2,7 @@
 # Your name: Neal Patel
 # Your student id: 40611444
 # Your email: nealpn@umich.edu
-# List who you have worked with on this project:
+# List who you have worked with on this project: Sarandia Papanastasopoulos 
 
 import unittest
 import sqlite3
